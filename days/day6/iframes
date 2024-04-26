@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>iframes</title>
+    </head>
+    <body>
+<a href="https://ravikumar51o.github.io/test13/">day4</a>
+<a href="https://ravikumar51o.github.io/teat/">day5</a>
+<a href="https://ravikumar51o.github.io/task13/">day6</a>
+<a  href="./index.html" target name="hai" ></a>
+<iframe src="" name="hai"></iframe>
+    </body>
+</html>
